@@ -4,7 +4,7 @@ import random
 import time
 import threading
 
-discord_webhook_url = "https://discord.com/api/webhooks/1240051671204368406/pOj9Te7vrcE-RsUK-t-pXKKrcdazE6YO5lLv_eYm6NBclXtm19F1BAdjCmwnTq13Vpgw"
+discord_webhook_url = "YOUR_DISCORD_WEBHOOK_URL_HERE"
 
 GREEN = '\033[92m'
 RED = '\033[91m'
