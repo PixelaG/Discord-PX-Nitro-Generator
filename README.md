@@ -1,2 +1,3 @@
 # Discord-PX-Nitro-Generator
-test
+
+A fast nitro gen w/ proxy-scraper built-in.
